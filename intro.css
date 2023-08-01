@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: #f7f7f7; */
+    background-image: url("https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;  
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    text-emphasis-color: white;
+    color: #105f08d0;
+}
+
+.intro {
+    text-align: center;
+}
+
+.socials {
+    margin-top: 40px;
+    
+}
+
+.socials h2 {
+    text-align: center;
+}
+
+.socials ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.socials li {
+    display: inline-block;
+    margin: 10px;
+}
+
+.socials a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #babcbe;
+    color: #105f08d0;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.socials a:hover {
+    background-color: #171717;
+}
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+    bottom: 0;
+}
